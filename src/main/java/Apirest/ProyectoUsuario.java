@@ -8,6 +8,7 @@ public class ProyectoUsuario {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProyectoUsuario.class, args);
+		System.out.print("tengo sueño");
 	}
 
 }
